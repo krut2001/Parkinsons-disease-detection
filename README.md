@@ -10,24 +10,24 @@ Max A. Little, Patrick E. McSharry, Eric J. Hunter, Lorraine O. Ramig (2008), 'S
 Attribute Information:
 Matrix column entries (attributes):
 
-name - ASCII subject name and recording number
+name - ASCII subject name and recording number<br /> 
 
-MDVP:Fo(Hz) - Average vocal fundamental frequency
+MDVP:Fo(Hz) - Average vocal fundamental frequency<br /> 
 
-MDVP:Fhi(Hz) - Maximum vocal fundamental frequency
+MDVP:Fhi(Hz) - Maximum vocal fundamental frequency<br /> 
 
-MDVP:Flo(Hz) - Minimum vocal fundamental frequency
+MDVP:Flo(Hz) - Minimum vocal fundamental frequency<br /> 
 
-MDVP:Jitter(%), MDVP:Jitter(Abs), MDVP:RAP, MDVP:PPQ, Jitter:DDP - Several measures of variation in fundamental frequency
+MDVP:Jitter(%), MDVP:Jitter(Abs), MDVP:RAP, MDVP:PPQ, Jitter:DDP - Several measures of variation in fundamental frequency<br /> 
 
-MDVP:Shimmer,MDVP:Shimmer(dB),Shimmer:APQ3,Shimmer:APQ5,MDVP:APQ,Shimmer:DDA - Several measures of variation in amplitude
+MDVP:Shimmer,MDVP:Shimmer(dB),Shimmer:APQ3,Shimmer:APQ5,MDVP:APQ,Shimmer:DDA - Several measures of variation in amplitude<br /> 
 
-NHR, HNR - Two measures of the ratio of noise to tonal components in the voice
+NHR, HNR - Two measures of the ratio of noise to tonal components in the voice<br /> 
 
-status - The health status of the subject (one) - Parkinson's, (zero) - healthy
+status - The health status of the subject (one) - Parkinson's, (zero) - healthy<br /> 
 
-RPDE, D2 - Two nonlinear dynamical complexity measures
+RPDE, D2 - Two nonlinear dynamical complexity measures<br /> 
 
-DFA - Signal fractal scaling exponent
+DFA - Signal fractal scaling exponent<br /> 
 
-spread1,spread2,PPE - Three nonlinear measures of fundamental frequency variation
+spread1,spread2,PPE - Three nonlinear measures of fundamental frequency variation<br /> 
